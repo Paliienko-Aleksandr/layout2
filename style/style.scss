@@ -8,6 +8,9 @@
 button{
   border: none;
 }
+a{
+  text-decoration: none;
+}
 .price_table{
   max-width: 1440px;
   min-height: 1000px;
@@ -111,7 +114,6 @@ button{
   align-items: center;
   
 }
-
 .odd{
   background-color: rgba(42, 52, 56, 0.5);
 }

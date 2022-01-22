@@ -10,6 +10,10 @@ button {
   border: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 .price_table {
   max-width: 1440px;
   min-height: 1000px;
