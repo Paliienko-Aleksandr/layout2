@@ -3,6 +3,7 @@
   font-family: "Montserrat", sans-serif;
   padding: 0px;
   margin: 0px;
+  font-size: 16px;
 }
 
 .price_table {
@@ -14,6 +15,28 @@
   max-width: 1176px;
   min-height: 770px;
   margin: auto;
+}
+
+.price {
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 40px;
+}
+.price_basic {
+  background-color: #5BB189;
+}
+.price_buisness {
+  background-color: #3A6BA5;
+}
+.price_webshop {
+  background-color: #EC632A;
+}
+.price_text {
+  margin: 19px 0px;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 67px;
 }
 
 .price_card {
@@ -42,6 +65,32 @@
   font-size: 20px;
   line-height: 24px;
   color: #fff;
+}
+
+.cms_system {
+  width: 95%;
+  text-align: center;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  color: #fff;
+}
+
+.price_card_options {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.wrapper_price_card_options {
+  display: flex;
+  margin-left: 22px;
+  height: 50px;
+}
+
+.arrow_icon {
+  width: 15px;
+  height: 13px;
+  margin-right: 22px;
 }
 
 /*# sourceMappingURL=style.css.map */
