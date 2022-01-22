@@ -27,6 +27,9 @@
 .price_card:last-child {
   margin-right: 0px;
 }
+.price_card_header {
+  padding-bottom: 33px;
+}
 .price_card_header_text {
   margin-top: 33px;
   font-size: 35px;
