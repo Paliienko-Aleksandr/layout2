@@ -11,18 +11,19 @@ button{
 a{
   text-decoration: none;
 }
-
-.price_table{
+body{
+  display: flex;
   max-width: 1440px;
   min-height: 1000px;
   background-color: #141B1C;
-
+}
+.price_table{
   &_wrapper{
     display: flex;
     max-width: 1176px;
     min-height: 770px;
     margin: auto;
-    padding:115px 0px;
+    
   }
 }
 .price{
