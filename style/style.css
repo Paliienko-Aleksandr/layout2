@@ -14,8 +14,13 @@ a {
   text-decoration: none;
 }
 
+body {
+  max-width: 1440px;
+  min-height: 1000px;
+  background-color: #141B1C;
+}
+
 .price_table {
-  display: flex;
   max-width: 1440px;
   min-height: 1000px;
   background-color: #141B1C;
@@ -25,7 +30,7 @@ a {
   max-width: 1176px;
   min-height: 770px;
   margin: auto;
-  /* padding-top: 115px; */
+  padding-top: 115px;
 }
 
 .price {
