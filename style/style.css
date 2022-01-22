@@ -18,6 +18,9 @@ body {
   max-width: 1440px;
   min-height: 1000px;
   background-color: #141B1C;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .price_table {
@@ -29,7 +32,6 @@ body {
   display: flex;
   max-width: 1176px;
   min-height: 770px;
-  margin: 115px auto;
 }
 
 .price {
