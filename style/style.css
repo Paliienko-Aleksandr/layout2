@@ -21,7 +21,7 @@ body {
   background-color: #141B1C;
 }
 
-.price_table_wrapper {
+.price-card_wrapper {
   display: flex;
   max-width: 1176px;
   min-height: 770px;
