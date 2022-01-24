@@ -97,17 +97,17 @@ body {
   padding-bottom: 40px;
 }
 
-.price_card_options {
+.price-card__options {
   width: 100%;
 }
-.price_card_options_item {
+.price-card__options_item {
   font-weight: 300;
   font-size: 15px;
   line-height: 18px;
   color: #fff;
 }
 
-.wrapper_price_card_options {
+.wrapper_price-card__options {
   display: flex;
   height: 50px;
   align-items: center;
