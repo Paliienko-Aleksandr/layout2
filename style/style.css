@@ -14,7 +14,7 @@ a {
   text-decoration: none;
 }
 
-.price-table {
+.price-tables {
   display: flex;
   max-width: 1440px;
   min-height: 1000px;
