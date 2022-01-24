@@ -55,7 +55,7 @@ body{
   display: flex;
 }
 
-.price_card{
+.price-card{
   width: 33.3vw;
   display: flex;
   flex-direction: column;
@@ -67,11 +67,11 @@ body{
     margin-right: 0px;
   }
 
-  &_header{
+  &_title{
     padding-bottom: 33px;
   }
 
-  &_header_text{
+  &_title_text{
     margin-top: 33px;
     font-size: 35px;
     line-height: 43px;

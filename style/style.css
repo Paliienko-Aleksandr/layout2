@@ -54,7 +54,7 @@ body {
   display: flex;
 }
 
-.price_card {
+.price-card {
   width: 33.3vw;
   display: flex;
   flex-direction: column;
@@ -62,26 +62,26 @@ body {
   background-color: #334247;
   margin-right: 18px;
 }
-.price_card:last-child {
+.price-card:last-child {
   margin-right: 0px;
 }
-.price_card_header {
+.price-card_title {
   padding-bottom: 33px;
 }
-.price_card_header_text {
+.price-card_title_text {
   margin-top: 33px;
   font-size: 35px;
   line-height: 43px;
   font-weight: 700;
   color: #fff;
 }
-.price_card_header_text_description {
+.price-card_title_text_description {
   text-align: center;
   font-size: 20px;
   line-height: 24px;
   color: #fff;
 }
-.price_card_footer {
+.price-card_footer {
   width: 100%;
   padding-bottom: 40px;
   text-align: center;
